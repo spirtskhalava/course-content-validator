@@ -1,0 +1,14 @@
+lesson: lessons/02-variables.md
+questions:
+  - id: q1
+    prompt: "What is the type of `x = 3`?"
+    options: ["int", "str", "float"]
+    answer: "int"
+  - id: q2
+    prompt: "Which name is a valid identifier?"
+    options: ["2nd", "_second", "sec-ond"]
+    answer: "second"
+  - id: q2
+    prompt: ""
+    options: ["yes"]
+    answer: "yes"

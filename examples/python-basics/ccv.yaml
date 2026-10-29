@@ -1,0 +1,5 @@
+required_fields: [title, last_reviewed, owner]
+max_age_days: 180
+min_versions:
+  python: "3.10"
+  node: "18"
